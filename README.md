@@ -6,6 +6,6 @@ DLCA programs Comps
 - Booth Division Multiplication
 
 
-## Contributions
+## Contributions Notice
 
 Contributions are welcome!
